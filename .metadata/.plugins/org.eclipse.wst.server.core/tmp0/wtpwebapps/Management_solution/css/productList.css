@@ -1,0 +1,37 @@
+button {
+    width: 40px;
+    height: 40px;
+    font-size: 1rem;
+}
+
+.search-button {
+    border: none;
+    padding: 10px;
+    text-transform: uppercase;
+}
+.search-wrap {
+    display: flex;
+    align-items: center;
+}
+
+/* table */
+
+.tbl-header{
+	border: 1px solid #fdfdfd;
+}
+table{
+	width:100%;
+	table-layout: fixed;
+}
+.tbl-content{
+	height:300px;
+	overflow-x:auto;
+	margin-top: 0px;
+}
+
+th{
+	padding: 20px 15px;
+	text-align: center;
+	font-size: 1rem;
+	color: #fdfdfd;
+}

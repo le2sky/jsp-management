@@ -1,0 +1,8 @@
+article {
+	grid-column: 3 / 5;
+	grid-row: 3 / 10;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+}

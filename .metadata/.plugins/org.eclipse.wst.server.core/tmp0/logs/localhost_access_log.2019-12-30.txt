@@ -1,0 +1,12 @@
+127.0.0.1 - - [30/Dec/2019:20:35:50 +0900] "GET / HTTP/1.1" 404 1115
+0:0:0:0:0:0:0:1 - - [30/Dec/2019:20:35:51 +0900] "GET /Management_solution/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Dec/2019:20:35:51 +0900] "GET /Management_solution/css/reset.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Dec/2019:20:35:51 +0900] "GET /Management_solution/css/index.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Dec/2019:20:35:51 +0900] "GET /Management_solution/img/logo.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Dec/2019:20:35:59 +0900] "GET /Management_solution/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Dec/2019:20:35:59 +0900] "GET /Management_solution/css/reset.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Dec/2019:20:35:59 +0900] "GET /Management_solution/css/index.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Dec/2019:20:35:59 +0900] "GET /Management_solution/img/logo.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Dec/2019:20:36:02 +0900] "GET /Management_solution/login.jsp HTTP/1.1" 200 1533
+0:0:0:0:0:0:0:1 - - [30/Dec/2019:20:36:07 +0900] "POST /Management_solution/signIn.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [30/Dec/2019:20:36:08 +0900] "GET /Management_solution/productList.jsp HTTP/1.1" 200 4664
