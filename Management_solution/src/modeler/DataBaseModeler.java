@@ -10,7 +10,7 @@ public class DataBaseModeler {
 	protected static final String JDBC_DRIVER ="com.mysql.cj.jdbc.Driver";
 	protected static final String JDBC_URL ="jdbc:mysql://localhost:3306/nikeManager_DataBase?serverTimezone=Asia/Seoul";
 	protected static final String USER = "root";
-	protected static final String PASSWD ="gksmf15914";
+	protected static final String PASSWD =""; //input your database password
 	
 	protected Connection con = null;
 	protected Statement stmt = null;
