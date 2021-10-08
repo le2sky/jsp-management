@@ -1,6 +1,5 @@
 # Management-Solution
 
-<img src="./management-logo.jpg" />
 
  **This Project is Simple inventory management site for managers using jsp model1.**
     
