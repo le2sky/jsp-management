@@ -1,7 +1,7 @@
 # Management-Solution
 
 
- **This Project is Simple inventory management site for managers using jsp model1.**
+ **This Project is Simple inventory management site for managers**
     
     1. 환경 및 기술스택
         (1). Server 
